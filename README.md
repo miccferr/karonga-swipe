@@ -1,4 +1,4 @@
 # karonga-swipe
-Swipe map comparing the pre/post MissingMaps Mapathon situation for the buildings in Karonga,Malawi
+Swipe map comparing the pre/post MissingMaps Mapathon buildings situation in Karonga,Malawi
 
-![](karonga-fast.git)
+![](./karonga-fast.git)
