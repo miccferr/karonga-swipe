@@ -1,4 +1,4 @@
 # karonga-swipe
-Swipe map comparing the pre/post MissingMaps Mapathon buildings situation in Karonga,Malawi
+Swipe map to compare the building density in Karonga (Malawi), pre/post the KCL - MissingMaps mapathon
 
 ![](./karonga-fast.gif)
